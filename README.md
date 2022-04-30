@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 I'm chakkk💤
 
 <!--
 **chakkk309/chakkk309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Doing something about backend development (Java/C++)
+- 🌱 A newbie to infrastructure software, interested in database management systems
+- 📫 Email: chakk6870@gmail.com
