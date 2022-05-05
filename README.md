@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 Doing something about backend development (Java/C++)
 - 🌱 A newbie to infrastructure software, interested in database management systems
-- 📫 Email: chakk6870@gmail.com
+- 📫 How to reach me: chakk6870@gmail.com && [Linkedin](https://www.linkedin.com/in/jia-qi-yan-1b1796218/)
