@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 🔭 Doing something about backend development 
 - 🌱 A newbie to infrastructure software, interested in database management systems
 - 📫 How to reach me: chakk6870@gmail.com && [Linkedin](https://www.linkedin.com/in/jia-qi-yan/)
+
+
+
+[![Chakkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=chakkk309&count_private=true&show_icons=true&hide=stars)](https://github.com/chakkk309/github-readme-stats)
