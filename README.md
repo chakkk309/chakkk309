@@ -16,6 +16,9 @@
 <a href = "mailto:chakkk6870@gmail.com" target = "_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href = "https://chakkk.com" target = "_blank">
+<img src="https://img.shields.io/badge/website-30a14e?&style=for-the-badge&logo=Blogger&logoColor=white" />
+</a>
 </div>
 
 ### Visitors Count 
