@@ -6,7 +6,7 @@
 
 [![Chakkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=chakkk309&count_private=true&show_icons=true&hide=stars)](https://github.com/chakkk309/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakkk309&layout=compact)](https://github.com/chakkk309/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakkk309&layout=compact)](https://github.com/chakkk309/github-readme-stats)--> 
 
 ### Connect with me 
 <div>
