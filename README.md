@@ -1,8 +1,8 @@
-### Hi there! 👋
 
-- 🔭 Doing something about backend development.
+
+<!-- - 🔭 Doing something about backend development.
 - 🌱 A newbie to infrastructure software, interested in DBMS.
-- 📫 How to reach me: chakk6870@gmail.com
+- 📫 How to reach me: chakk6870@gmail.com-->
 
 [![Chakkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=chakkk309&count_private=true&show_icons=true&hide=stars)](https://github.com/chakkk309/github-readme-stats)
 
