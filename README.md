@@ -1,12 +1,11 @@
 
+## Hi, I'm Chakkk :)
 
-<!-- - 🔭 Doing something about backend development.
-- 🌱 A newbie to infrastructure software, interested in DBMS.
-- 📫 How to reach me: chakk6870@gmail.com-->
-
-[![Chakkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=chakkk309&count_private=true&show_icons=true&hide=stars)](https://github.com/chakkk309/github-readme-stats)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakkk309&layout=compact)](https://github.com/chakkk309/github-readme-stats)--> 
+- :ice_cream: Open-source newbie, focus on data management. Trying to satisfy my curiosity about how database works.
+- :icecream: Anthropology newbie, exploring on the Internet. Trying to make it my way of understanding the world.
+- :coffee: Language used: Java, studying Kotlin and C++.
+  
+![Chakkk's github stats](https://github-readme-stats.vercel.app/api?username=chakkk309&count_private=true&show_icons=true&hide=stars)
 
 ### Connect with me 
 <div>
@@ -20,6 +19,3 @@
 <img src="https://img.shields.io/badge/website-30a14e?&style=for-the-badge&logo=Blogger&logoColor=white" />
 </a>
 </div>
-
-### Visitors Count 
-<img src="https://visitor-badge.glitch.me/badge?page_id=chakkk309" />
