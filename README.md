@@ -3,7 +3,6 @@
 
 - :ice_cream: Open-source newbie: focus on data management. Trying to satisfy my curiosity about how database works.
 - :icecream: Anthropology newbie: exploring on the Internet. Trying to make it my way of understanding the world.
-- :coffee: Language used: Java, studying Kotlin and C++.
   
 ![Chakkk's github stats](https://github-readme-stats.vercel.app/api?username=chakkk309&count_private=true&show_icons=true&hide=stars)
 
